@@ -1,0 +1,4 @@
+Laos,6858000
+Chile,18000000
+Australia,28500000
+Dominican Republic,10770000
